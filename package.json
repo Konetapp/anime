@@ -1,10 +1,15 @@
 {
-  "name": "@konetapp/anime",
+  "name": "@konetapack/anime",
   "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-  }
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "konetapp/anime",
+  "main": "index.js",
+  "keywords": [
+    "konet",
+    "anime",
+    "anime-db",
+    "konetapp",
+    "konetapack"
+  ]
 }
